@@ -1,0 +1,17 @@
+v 3
+
+d explore. Describe with addons
+d
+d
+d Author: Sergio Correia.
+d Support: sergio.correia@gmail.com
+d
+d KW: describe
+d KW: isid
+d
+d Requires: Stata version 13.0
+d
+d Distribution-Date: 20170815
+d
+
+f explore.ado
